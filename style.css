@@ -37,10 +37,10 @@
   }
 
   .container h1 {
-    color: #eac3c3;
+    color: #c0c2c5;
   }
   .container p {
-    color: #eac3c3;
+    color: #cb7ba7;
     font-size: 18px;
   font-family: "Sofia", sans-serif !important;
   }
@@ -50,8 +50,7 @@
     justify-content: center;
     padding: 10px 0;
   }
-  .container .social{
-    color: red;
-
+  .container .social i {
+    color: rgb(41, 184, 212);
+    cursor: pointer;
   }
-  
