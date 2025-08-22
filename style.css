@@ -45,8 +45,13 @@
   font-family: "Sofia", sans-serif !important;
   }
 
-  .container social{
+  .container .social{
     display: flex;
     justify-content: center;
     padding: 10px 0;
   }
+  .container .social{
+    color: red;
+
+  }
+  
