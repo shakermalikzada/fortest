@@ -11,6 +11,5 @@ i use :
  in next update i will use `js`
  ---
  to see the demo link is please click [here] (https://shakermalikzada.github.io/fortest/) 
- ---
- 	![shakermalikzada](image/shaker.jpg)
-    
+
+
