@@ -1,6 +1,6 @@
 # profile card 
-## this is my first git hub project
-**profile-card** is a simple project that create very easy
+## a basic and simple profile card
+ 
 ---
 i use :
 1. html 
@@ -10,6 +10,7 @@ i use :
  ---
  in next update i will use `js`
  ---
- to see the demo link is please click [here] (https://shakermalikzada.github.io/fortest/) 
+ to see the demo please click [here] (https://shakermalikzada.github.io/fortest/) 
+ 	![shakermalikzad](image/shaker.jpg)
 
 
